@@ -1,5 +1,5 @@
 # Kuala Lumpur Neighborhood Analysis using Machine Learning Clustering algorithm
-In this project we will compare different neighborhoods of Kuala Lumpur based on Real estate prices, types, sizes and venues around the neighborhood.
+In this project we will compare different neighborhoods of Kuala Lumpur based on Real estate dataset (property prices, types, sizes) and venues around the neighborhood.
 
 # Introduction
 
@@ -37,5 +37,9 @@ We will divide the project into multiple phases:
 ![](/images/figure3.png) </br>
 We will collect 100 venues around each neighborhood based on longitude and latitude information.</br>
 ![](/images/figure3a.png) </br>
+Next we will select top 10 venue for each neighborhood and perform a onehot encoding.</br>
+![](/images/figure3b.png) </br>
 
+<b>Step 5 is Clustering using venues dataframe.</b> In this we will performa the K-means clustering algorithm using venues dataset. We will use the same number of clusters as before (real estate clustering). 
 
+<b>Step 6 is comparing both clustering results,</b> and see how different neighborhoods correlated in terms of real estate dataset as well as venues around them. 
