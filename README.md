@@ -64,18 +64,31 @@ We have 5 clusters. Let's analyse each cluster one by one.
 
 ![](/images/figure5.png)
 
-<b>Cluster 1 (purple circle)</b> has only a single member: <b>Country Heights Damansara</b>. This is a luxury neighborhood with luxury villas (over 80% properties here are bungalows/villas). This is the home of celebrities, politicians and rich people in general. Properties in this area are rather huge with over 9000 sqft in average, 5 parking spots, and skyrocket prices (over RM1.5 million per room). 
+<b>Cluster 1 (purple circle)</b> has only a single member: 
+<b>Country Heights Damansara</b>. 
+This is a luxury neighborhood with luxury villas (over 80% properties here are bungalows/villas). This is the home of celebrities, politicians and rich people in general. Properties in this area are rather huge with over 9000 sqft in average, 5 parking spots, and skyrocket prices (over RM1.5 million per room). 
 
 ![](/images/figure6.png)
 
-<b>Cluster 2 (light blue circles)</b> is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size and the price per room vary from RM100K to RM400K. 
+<b>Cluster 2 (light blue circles)</b> 
+is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size and the price per room vary from RM100K to RM400K. 
 
-[](/images/figure7.png)
+![](/images/figure7.png)
 
-<b>Cluster 3 (light green circles)</b> includes 2 expensive neighborhoods with large properties (over 5000 sqft) and high price values (over RM900K per room). 
+<b>Cluster 3 (light green circles)</b> 
+includes 2 expensive neighborhoods with large properties (over 5000 sqft) and high price values (over RM900K per room). 
 
-[](/images/figure8.png)
+![](/images/figure8.png)
 
-<b>Cluster 4 (yellow circles)</b> includes three neighborhoods for upper income category. Most of the properties here are condominiums and serviced residences, with average size of over 3000 sqft. Price per room in this cluster is around RM700K in average. 
+<b>Cluster 4 (yellow circles)</b> 
+includes three neighborhoods for upper income category. Most of the properties here are condominiums and serviced residences, with average size of over 3000 sqft. Price per room in this cluster is around RM700K in average. 
 
-[](/images/figure9.png)
+![](/images/figure9.png)
+
+## Venues based clustering
+
+Next we cluster the neighborhhods based on Venues dataset obtained from Foursquare.com.
+
+First, lets look at the top 10 venues for different neighborhoods:
+
+![](/images/figure10.png)
