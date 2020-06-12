@@ -29,4 +29,6 @@ We will divide the project into multiple phases:
 
 ![](/images/figure2.png)
 
-<b>Step 3 is Data analysis and clustering based on real estate data.</b>
+<b>Step 3 is Data analysis and clustering based on real estate data.</b> We will use onehot encoding to convert categorical data such as type of property and furnishing condition into numericla form. Next we will perform the K-means clustering algorithm.
+
+![](/images/figure2a.png)
