@@ -33,12 +33,17 @@ We will divide the project into multiple phases:
 
 ![](/images/figure2a.png)
 
-<b>Step 4 is collecting data about each neighborhood using a Foursquare API.</b> </br>
-![](/images/figure3.png) </br>
-We will collect 100 venues around each neighborhood based on longitude and latitude information.</br>
-![](/images/figure3a.png) </br>
-Next we will select top 10 venue for each neighborhood and perform a onehot encoding.</br>
-![](/images/figure3b.png) </br>
+<b>Step 4 is collecting data about each neighborhood using a Foursquare API.
+  
+![](/images/figure3.png)
+
+We will collect 100 venues around each neighborhood based on longitude and latitude information.
+
+![](/images/figure3a.png)
+
+Next we will select top 10 venue for each neighborhood and perform a onehot encoding.
+
+![](/images/figure3b.png)
 
 <b>Step 5 is Clustering using venues dataframe.</b> In this we will performa the K-means clustering algorithm using venues dataset. We will use the same number of clusters as before (real estate clustering). 
 
