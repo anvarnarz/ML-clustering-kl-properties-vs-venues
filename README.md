@@ -45,6 +45,8 @@ Next we will select top 10 venue for each neighborhood and perform a onehot enco
 
 ![](/images/figure3b.png)
 
-<b>Step 5 is Clustering using venues dataframe.</b> In this we will performa the K-means clustering algorithm using venues dataset. We will use the same number of clusters as before (real estate clustering). 
+<b>Step 5 is Clustering using venues dataframe.</b> 
+In this we will performa the K-means clustering algorithm using venues dataset. We will use the same number of clusters as before (real estate clustering). 
 
-<b>Step 6 is comparing both clustering results,</b> and see how different neighborhoods correlated in terms of real estate dataset as well as venues around them. 
+<b>Step 6 is comparing both clustering results,</b> 
+and see how different neighborhoods correlated in terms of real estate dataset as well as venues around them. 
