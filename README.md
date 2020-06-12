@@ -92,3 +92,47 @@ Next we cluster the neighborhhods based on Venues dataset obtained from Foursqua
 First, lets look at the top 10 venues for different neighborhoods:
 
 ![](/images/figure10.png)
+
+Let's see the clustering results. 
+
+![](/images/figure10a.png)
+
+<b>Cluster 0 (red circle)</b>
+Consists of single neighborhood (Segambut) and distinc character of this area is lack of restaurants in top 10 venues.
+
+![](/images/figure10b.png)
+
+<b>Cluster 1 (purple circles)</b> 
+Includes tourist hotspots and crowded areas. These are very diverse neighborhoods with a lot of Cafes, Restaurants, Coffee shops, Department stores, Shopping malls, entertainment centers etc. 
+
+![](/images/figure10c.png)
+
+<b>Cluster 2 (blue circles)</b>
+is mostly residential areas characterised by a lot of eatiries, food trucks, food courts and coffee shops. 
+
+![](/images/figure10d.png)
+
+<b>Clusters 3 and 4 (green and yellow circles, respectively)</b>
+are neighborhoods with Art Gallery, Yoga studios, Pool and hiking trail. 
+
+![](/images/figure10e.png)
+
+## Real-estate vs Venues
+Next lets overlap both maps and see how clustering using Real estate dataset matches with clustering using venues dataset:
+
+![](/images/figure11.png)
+
+In this figure, outer circles indicate the clustering results based on property, and inner circles are for clustering based on venues. 
+
+We can see that neighborhoods with similar real estate are more or less similar in terms of venues as well. 
+However, there is a option for anyone who is plannign to relocate from one neighborhhod to another.
+If for whatever reason, you're planning to move to similar neighborhood (in terms of both, property and venues) you have to consider the clusters with matching inner and outer colors. 
+
+Someone who is planning to change the atmosphere can target the circles with different inner color and same outer one.
+
+Someone who is planning to upgrade his living conditions but likes his neighborhood can choose the circles with same inner but different outer color.
+
+# Conclusion
+We can conclude that Kuala Lumpur is a diverse metropolis with diverse neighborhoods, and it might be confusing for someone to relocate within the city without proper information about each neighborhood. In this project we tried to analyse the neighborhoods based on real estate data and venues. We believe our results can help people to better navigate the real estate market and find the neighborhood which is best suited for him. 
+
+We can further improve the clustering results by include more datasets, such us crime rates, nearby schools, hospitals end etc.
