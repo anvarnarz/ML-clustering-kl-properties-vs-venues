@@ -9,7 +9,5 @@ There are many reasons people relocate within city boundaries, e.g. getting a ne
 
 # Dataset
 We will use the dataset created by Jan S available on Kaggle.
-
 This dataset contains thousands of property listings scraped from iproperty.com for every neighborhood of Kuala Lumpurt city.
-
 For venues around each neighborhood we will gather data from Foursquare.com
