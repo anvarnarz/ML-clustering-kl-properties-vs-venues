@@ -92,3 +92,29 @@ Next we cluster the neighborhhods based on Venues dataset obtained from Foursqua
 First, lets look at the top 10 venues for different neighborhoods:
 
 ![](/images/figure10.png)
+
+Let's see the clustering results. 
+
+![](/images/figure10a.png)
+
+<b>Cluster 0 (red circle)</b>
+Consists of single neighborhood (Segambut) and distinc character of this area is lack of restaurants in top 10 venues.
+
+![](/images/figure10b.png)
+
+<b>Cluster 1 (purple circles)</b> 
+Includes tourist hotspots and crowded areas. These are very diverse neighborhoods with a lot of Cafes, Restaurants, Coffee shops, Department stores, Shopping malls, entertainment centers etc. 
+
+![](/images/figure10c.png)
+
+<b>Cluster 2 (blue circles)</b>
+is mostly residential areas characterised by a lot of eatiries, food trucks, food courts and coffee shops. 
+
+![](/images/figure10d.png)
+
+<b>Clusters 3 and 4 (green and yellow circles, respectively)</b>
+are rich people neighborhoods with Art Gallery, Yoga studios, Pool and hiking trail. 
+
+![](/images/figure10e.png)
+
+## Real-estate vs Venues
