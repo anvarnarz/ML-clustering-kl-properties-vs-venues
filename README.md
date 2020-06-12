@@ -113,8 +113,23 @@ is mostly residential areas characterised by a lot of eatiries, food trucks, foo
 ![](/images/figure10d.png)
 
 <b>Clusters 3 and 4 (green and yellow circles, respectively)</b>
-are rich people neighborhoods with Art Gallery, Yoga studios, Pool and hiking trail. 
+are neighborhoods with Art Gallery, Yoga studios, Pool and hiking trail. 
 
 ![](/images/figure10e.png)
 
 ## Real-estate vs Venues
+Next lets overlap both maps and see how clustering using Real estate dataset matches with clustering using venues dataset:
+
+![](/images/figure11.png)
+
+In this figure, outer circles indicate the clustering results based on property, and inner circles are for clustering based on venues. 
+
+We can see that neighborhoods with similar real estate are more or less similar in terms of venues as well. 
+However, there is a option for anyone who is plannign to relocate from one neighborhhod to another.
+If for whatever reason, you're planning to move to similar neighborhood (in terms of both, property and venues) you have to consider the clusters with matching inner and outer colors. 
+
+Someone who is planning to change the atmosphere can target the circles with different inner color and same outer one.
+
+Someone who is planning to upgrade his living conditions but likes his neighborhood can choose the circles with same inner but different outer color.
+
+And many more.
