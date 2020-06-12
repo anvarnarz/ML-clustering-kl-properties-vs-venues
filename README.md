@@ -52,7 +52,9 @@ In this we will performa the K-means clustering algorithm using venues dataset. 
 and see how different neighborhoods correlated in terms of real estate dataset as well as venues around them. 
 
 # Results
-First let's look at the Real estate dataset based clustering results:
+## Real estate based clustering 
+
+Lets analyse clustering results based on Real estate dataset:
 
 ![](/images/figure4.png)
 
