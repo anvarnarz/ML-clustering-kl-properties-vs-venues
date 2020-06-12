@@ -66,4 +66,4 @@ We have 5 clusters. Let's analyse each cluster one by one.
 
 ![](/images/figure6.png)
 
-<b>Cluster 2 (light blue circles)</b> includes the neighborhoods with properties for low to middle income families.  
+<b>Cluster 2 (light blue circles)</b> is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size and the price per room vary from RM100K to RM400K. 
