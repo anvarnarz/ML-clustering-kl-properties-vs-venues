@@ -60,18 +60,18 @@ Lets analyse clustering results based on Real estate dataset:
 
 We have 5 clusters. Let's analyse each cluster one by one.
 
-<b>Cluster 0 (red circles)</b> is characterized by expensive properties with area size from 1500 to 4000 sqft. Most of the properties in this cluster are serviced residences and condominiums.  The price in this cluster is rather high, with price per room from RM400K all the way up to RM700K. The neighborhoods in this cluster are mostly located close to KL downtown, such as KLCC, Bukit Bintang, KL central, Seputeh.
+<b>Cluster 0 (red circles)</b> is characterized by expensive properties with 3-4 bedrooms and area size from 1500 to 4000 sqft. Most of the properties in this cluster are serviced residences and condominiums.  The price in this cluster is rather high, with price per room from RM400K all the way up to RM700K. The neighborhoods in this cluster are mostly located close to KL downtown, such as KLCC, Bukit Bintang, KL central, Seputeh.
 
 ![](/images/figure5.png)
 
 <b>Cluster 1 (purple circle)</b> has only a single member: 
 <b>Country Heights Damansara</b>. 
-This is a luxury neighborhood with luxury villas (over 80% properties here are bungalows/villas). This is the home of celebrities, politicians and rich people in general. Properties in this area are rather huge with over 9000 sqft in average, 5 parking spots, and skyrocket prices (over RM1.5 million per room). 
+This is a luxury neighborhood with luxury villas (over 80% properties here are bungalows/villas). This is the home of celebrities, politicians and rich people in general. Properties in this area are rather huge with 6 rooms, 6 bathrooms and over 9000 sqft in average, 5 parking spots, and skyrocket prices (over RM1.5 million per room). 
 
 ![](/images/figure6.png)
 
 <b>Cluster 2 (light blue circles)</b> 
-is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size and the price per room vary from RM100K to RM400K. 
+is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These residential neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size (2-3 rooms) and the price per room vary from RM100K to RM400K. 
 
 ![](/images/figure7.png)
 
