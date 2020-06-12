@@ -29,7 +29,7 @@ We will divide the project into multiple phases:
 
 ![](/images/figure2.png)
 
-<b>Step 3 is Data analysis and clustering based on real estate data.</b> We will use onehot encoding to convert categorical data such as type of property and furnishing condition into numericla form. Next we will perform the K-means clustering algorithm.
+<b>Step 3 is Data analysis and clustering based on real estate data.</b> We will use onehot encoding to convert categorical data such as type of property and furnishing condition into numericla form. Next we will perform the K-means clustering algorithm. After few experiments we decided to set K=5.
 
 ![](/images/figure2a.png)
 
@@ -50,3 +50,20 @@ In this we will performa the K-means clustering algorithm using venues dataset. 
 
 <b>Step 6 is comparing both clustering results,</b> 
 and see how different neighborhoods correlated in terms of real estate dataset as well as venues around them. 
+
+# Results
+First let's look at the Real estate dataset based clustering results:
+
+![](/images/figure4.png)
+
+We have 5 clusters. Let's analyse each cluster one by one.
+
+<b>Cluster 0 (red circles)</b> is characterized by expensive properties with area size from 1500 to 4000 sqft. Most of the properties in this cluster are serviced residences and condominiums.  The price in this cluster is rather high, with price per room from RM400K all the way up to RM700K. The neighborhoods in this cluster are mostly located close to KL downtown, such as KLCC, Bukit Bintang, KL central, Seputeh.
+
+![](/images/figure5.png)
+
+<b>Cluster 1 (purple circle)</b> has only a single member: <b>Country Heights Damansara</b>. This is a luxury neighborhood with luxury villas (over 80% properties here are bungalows/villas). This is the home of celebrities, politicians and rich people in general. Properties in this area are rather huge with over 9000 sqft in average, 5 parking spots, and skyrocket prices (over RM1.5 million per room). 
+
+![](/images/figure6.png)
+
+<b>Cluster 2 (light blue circles)</b> includes the neighborhoods with properties for low to middle income families.  
