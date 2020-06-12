@@ -16,7 +16,17 @@ There are many reasons people relocate within city boundaries, e.g. getting a ne
 We will use the [dataset](https://www.kaggle.com/dragonduck/property-listing-analysis) created by Jan S available on [Kaggle](https://www.kaggle.com).
 This dataset contains tens of thousands of property listings scraped from iproperty.com for every neighborhood of Kuala Lumpur city.
 The dataset contains such information as number of rooms, bathrooms, parking slots, furnshing condition, property type and size as well as price per room and price per area for each listed property in iproperty.com.
+
 ![Real estate dataset KL](images/figure1.png)
 For venues around each neighborhood we will gather data from Foursquare.com.
 
 # Methodology
+We will divide the project into multiple phases:
+
+<b>Step 1 is Data wrangling.</b> Real estate dataset has many missing values, i.e. some properties missing the number of rooms info, others does not have the furnishing or size data. Rather than filling missing values we will simple remove the raws with NaN values, and still have a huge dataset with over 31000 property listings.
+
+<b>Step 2 is Getting Latitude and Longitude coordinates for each  neighborhood.</b> We will use Geopy geocoders library to do so.
+
+![](/images/figure2.png)
+
+<b>Step 3 is Data analysis and clustering based on real estate data.</b>
