@@ -14,5 +14,7 @@ There are many reasons people relocate within city boundaries, e.g. getting a ne
 
 # Dataset
 We will use the [dataset](https://www.kaggle.com/dragonduck/property-listing-analysis) created by Jan S available on [Kaggle](https://www.kaggle.com).
-This dataset contains thousands of property listings scraped from iproperty.com for every neighborhood of Kuala Lumpurt city.
-For venues around each neighborhood we will gather data from Foursquare.com
+This dataset contains tens of thousands of property listings scraped from iproperty.com for every neighborhood of Kuala Lumpur city.
+The dataset contains such information as number of rooms, bathrooms, parking slots, furnshing condition, property type and size as well as price per room and price per area for each listed property in iproperty.com.  
+<p><img src="/figure1.png" alt="Real estate dataset KL" width="100%"/></p>
+For venues around each neighborhood we will gather data from Foursquare.com.
