@@ -67,3 +67,13 @@ We have 5 clusters. Let's analyse each cluster one by one.
 ![](/images/figure6.png)
 
 <b>Cluster 2 (light blue circles)</b> is the biggest cluster that includes the neighborhoods with properties for low to middle income families. These neighborhoods are scattered all around the city. The properties in this cluster are anywhere from 900 to 2000 sqft in size and the price per room vary from RM100K to RM400K. 
+
+[](/images/figure7.png)
+
+<b>Cluster 3 (light green circles)</b> includes 2 expensive neighborhoods with large properties (over 5000 sqft) and high price values (over RM900K per room). 
+
+[](/images/figure8.png)
+
+<b>Cluster 4 (yellow circles)</b> includes three neighborhoods for upper income category. Most of the properties here are condominiums and serviced residences, with average size of over 3000 sqft. Price per room in this cluster is around RM700K in average. 
+
+[](/images/figure9.png)
