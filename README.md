@@ -132,4 +132,7 @@ Someone who is planning to change the atmosphere can target the circles with dif
 
 Someone who is planning to upgrade his living conditions but likes his neighborhood can choose the circles with same inner but different outer color.
 
-And many more.
+# Conclusion
+We can conclude that Kuala Lumpur is a diverse metropolis with diverse neighborhoods, and it might be confusing for someone to relocate within the city without proper information about each neighborhood. In this project we tried to analyse the neighborhoods based on real estate data and venues. We believe our results can help people to better navigate the real estate market and find the neighborhood which is best suited for him. 
+
+We can further improve the clustering results by include more datasets, such us crime rates, nearby schools, hospitals end etc.
