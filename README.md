@@ -32,3 +32,10 @@ We will divide the project into multiple phases:
 <b>Step 3 is Data analysis and clustering based on real estate data.</b> We will use onehot encoding to convert categorical data such as type of property and furnishing condition into numericla form. Next we will perform the K-means clustering algorithm.
 
 ![](/images/figure2a.png)
+
+<b>Step 4 is collecting data about each neighborhood using a Foursquare API.</b> </br>
+![](/images/figure3.png) </br>
+We will collect 100 venues around each neighborhood based on longitude and latitude information.</br>
+![](/images/figure3a.png) </br>
+
+
