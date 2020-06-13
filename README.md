@@ -33,7 +33,7 @@ We will divide the project into multiple phases:
 
 ![](/images/figure2a.png)
 
-<b>Step 4 is collecting data about each neighborhood using a Foursquare API.
+<b>Step 4 is collecting data about each neighborhood using a Foursquare API</b>.
   
 ![](/images/figure3.png)
 
